@@ -1,2 +1,2 @@
 # BashTutorial
-Tutorial to use bash.
+Guide to use shell.
