@@ -1,2 +1,2 @@
-# clear the terminal window
+echo "'clear' command, clears the terminal window"
 clear
